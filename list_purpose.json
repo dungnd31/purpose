@@ -1,0 +1,1320 @@
+[
+    {
+        "name": "Accounting & financial management",
+        "subpurpose": [
+            {
+                "name": "Bank account management",
+                "value": "Bank account management"
+            },
+            {
+                "name": "Issuing of invoices and receipt of payments",
+                "value": "Issuing of invoices and receipt of payments"
+            },
+            {
+                "name": "Management of customs obligations",
+                "value": "Management of customs obligations"
+            },
+            {
+                "name": "Management of intra-group financial transfers",
+                "value": "Management of intra-group financial transfers"
+            },
+            {
+                "name": "Management of tax obligations",
+                "value": "Management of tax obligations"
+            },
+            {
+                "name": "Management of the allocation of financial resources and investment",
+                "value": "Management of the allocation of financial resources and investment"
+            },
+            {
+                "name": "Part inventory value analysis",
+                "value": "Part inventory value analysis"
+            },
+            {
+                "name": "Receipt and payment of invoices",
+                "value": "Receipt and payment of invoices"
+            },
+            {
+                "name": "Sales and rental management of Vinfast Europe buildings",
+                "value": "Sales and rental management of Vinfast Europe buildings"
+            }
+        ],
+        "value": "Accounting & financial management"
+    },
+    {
+        "name": "Financial analysis and reporting",
+        "subpurpose": [
+            {
+                "name": "Financial analysis and management of gross margin and cost of sales (excluding employees)",
+                "value": "Financial analysis and management of gross margin and cost of sales (excluding employees)"
+            },
+            {
+                "name": "Financial analysis and management of the commercial means provided to promote the sale of products and services (subsidiaries, networks, etc.)",
+                "value": "Financial analysis and management of the commercial means provided to promote the sale of products and services (subsidiaries, networks, etc.)"
+            },
+            {
+                "name": "Financial analysis of commercial and general expenses",
+                "value": "Financial analysis of commercial and general expenses"
+            },
+            {
+                "name": "Financial management analysis of collaborative R&AE projects",
+                "value": "Financial management analysis of collaborative R&AE projects"
+            },
+            {
+                "name": "Monitoring of the payroll, the consumption of the employment ceiling and the allocation of resources by department and Department and preparation of management documents with the budget manager",
+                "value": "Monitoring of the payroll, the consumption of the employment ceiling and the allocation of resources by department and Department and preparation of management documents with the budget manager"
+            },
+            {
+                "name": "Reporting and budget consolidation",
+                "value": "Reporting and budget consolidation"
+            },
+            {
+                "name": "Responses to requests from authorized third parties (statutory auditors, auditors, funders) to examine the management of Vinfast Europe projects",
+                "value": "Responses to requests from authorized third parties (statutory auditors, auditors, funders) to examine the management of Vinfast Europe projects"
+            }
+        ],
+        "value": "Financial analysis and reporting"
+    },
+    {
+        "name": "After-sales management (interventions on the vehicle))",
+        "subpurpose": [
+            {
+                "name": "Quotation management and meeting appointments in workshops (offline and online)",
+                "value": "Quotation management and meeting appointments in workshops (offline and online)"
+            },
+            {
+                "name": "Roadside Assistance and Troubleshooting ",
+                "value": "Roadside Assistance and Troubleshooting "
+            },
+            {
+                "name": "Vehicle repair and maintenance",
+                "value": "Vehicle repair and maintenance"
+            }
+        ],
+        "value": "After-sales management (interventions on the vehicle))"
+    },
+    {
+        "name": "Car Ownership & Transfert of ownership management ",
+        "subpurpose": [
+            {
+                "name": "Car User Management with main user",
+                "value": "Car User Management with main user"
+            },
+            {
+                "name": "Management of the relationship with the followings owners during the entire cycle life of the vehicle ",
+                "value": "Management of the relationship with the followings owners during the entire cycle life of the vehicle "
+            }
+        ],
+        "value": "Car Ownership & Transfert of ownership management "
+    },
+    {
+        "name": "Car Relation Management",
+        "subpurpose": [
+            {
+                "name": "Management of vehicle documents",
+                "value": "Management of vehicle documents"
+            },
+            {
+                "name": "Managing the vehicle registration application",
+                "value": "Managing the vehicle registration application"
+            },
+            {
+                "name": "Managing Vehicle Approvals",
+                "value": "Managing Vehicle Approvals"
+            },
+            {
+                "name": "Vehicle history and relations (health book)",
+                "value": "Vehicle history and relations (health book)"
+            },
+            {
+                "name": "Vehicle repository management",
+                "value": "Vehicle repository management"
+            }
+        ],
+        "value": "Car Relation Management"
+    },
+    {
+        "name": "Connected services ",
+        "subpurpose": [
+            {
+                "name": "Authentication on board (FACE ID / PIN CODE)",
+                "value": "Authentication on board (FACE ID / PIN CODE)"
+            },
+            {
+                "name": "Battery Management and Connected Associated Services",
+                "value": "Battery Management and Connected Associated Services"
+            },
+            {
+                "name": "Commercial Applications (Targeted Advertising, Braking Assistance, Individual Insurance)",
+                "value": "Commercial Applications (Targeted Advertising, Braking Assistance, Individual Insurance)"
+            },
+            {
+                "name": "Cybersecurity & Safety updates (FOTA)",
+                "value": "Cybersecurity & Safety updates (FOTA)"
+            },
+            {
+                "name": "Driver Support (anticipation message, eco-driving, parking assistance)",
+                "value": "Driver Support (anticipation message, eco-driving, parking assistance)"
+            },
+            {
+                "name": "Enabling and subscription of Connected Services (Account Management, Contract)",
+                "value": "Enabling and subscription of Connected Services (Account Management, Contract)"
+            },
+            {
+                "name": "Follow-up cybersecurity events in the vehicle",
+                "value": "Follow-up cybersecurity events in the vehicle"
+            },
+            {
+                "name": "Infotainment (video games, music listening, movie viewing)",
+                "value": "Infotainment (video games, music listening, movie viewing)"
+            },
+            {
+                "name": "Navigation (nearby point of interest, traffic information, parking space reservation, door-to-door navigation)",
+                "value": "Navigation (nearby point of interest, traffic information, parking space reservation, door-to-door navigation)"
+            },
+            {
+                "name": "Provision of data of vehicles connected for commercial services subscribed by the persons concerned directly from third parties (E.g. Pay How You Drive)",
+                "value": "Provision of data of vehicles connected for commercial services subscribed by the persons concerned directly from third parties (E.g. Pay How You Drive)"
+            },
+            {
+                "name": "Remote control (control and vehicle dashboard, home automation services)",
+                "value": "Remote control (control and vehicle dashboard, home automation services)"
+            },
+            {
+                "name": "Road safety (emergency call, warning risk of collision, white line crossing detection, ..)",
+                "value": "Road safety (emergency call, warning risk of collision, white line crossing detection, ..)"
+            },
+            {
+                "name": "Security prevention (burglary notification, virtual sentinel model)",
+                "value": "Security prevention (burglary notification, virtual sentinel model)"
+            },
+            {
+                "name": "Sharing data from vehicles connected to commercial partners from VinFast Europe for commercial prospecting purposes",
+                "value": "Sharing data from vehicles connected to commercial partners from VinFast Europe for commercial prospecting purposes"
+            },
+            {
+                "name": "Technical incident management of a connected car ",
+                "value": "Technical incident management of a connected car "
+            },
+            {
+                "name": "Update software (OS) & Multimedia component (FOTA)",
+                "value": "Update software (OS) & Multimedia component (FOTA)"
+            },
+            {
+                "name": "Vehicle remote Diagnosis and Maintenance",
+                "value": "Vehicle remote Diagnosis and Maintenance"
+            }
+        ],
+        "value": "Connected services "
+    },
+    {
+        "name": "Contractual and financial management of product and service sales",
+        "subpurpose": [
+            {
+                "name": "Connected Services Contract Management",
+                "value": "Connected Services Contract Management"
+            },
+            {
+                "name": "Financing Management (via FCA for example)",
+                "value": "Financing Management (via FCA for example)"
+            },
+            {
+                "name": "MANAGEMENT OF MAINTENANCE CONTRACTS Vehicles",
+                "value": "MANAGEMENT OF MAINTENANCE CONTRACTS Vehicles"
+            },
+            {
+                "name": "MANAGEMENT OF PAYMENT FOR VINFAST EUROPE (CUSTOMERS)",
+                "value": "MANAGEMENT OF PAYMENT FOR VINFAST EUROPE (CUSTOMERS)"
+            },
+            {
+                "name": "Manufacturer's warranty",
+                "value": "Manufacturer's warranty"
+            },
+            {
+                "name": "Sale of online accessories",
+                "value": "Sale of online accessories"
+            },
+            {
+                "name": "Vehicle warranty extension (VN and VO)",
+                "value": "Vehicle warranty extension (VN and VO)"
+            }
+        ],
+        "value": "Contractual and financial management of product and service sales"
+    },
+    {
+        "name": "Car Ownership & Transfert of ownership management ",
+        "subpurpose": [
+            {
+                "name": "Connected car Data Monetization (including data brokering)",
+                "value": "Connected car Data Monetization (including data brokering)"
+            }
+        ],
+        "value": "Car Ownership & Transfert of ownership management "
+    },
+    {
+        "name": "Manufacturing Management",
+        "subpurpose": [
+            {
+                "name": "Cost Pilotage - Vehicle Design Time",
+                "value": "Cost Pilotage - Vehicle Design Time"
+            },
+            {
+                "name": "Management and follow-up of the production of vehicles and parts",
+                "value": "Management and follow-up of the production of vehicles and parts"
+            },
+            {
+                "name": "Remote Maintenance of Machines and Tools Factory",
+                "value": "Remote Maintenance of Machines and Tools Factory"
+            },
+            {
+                "name": "SUPPLY AND TRANSPORT OF PARTS AND PACKAGING",
+                "value": "SUPPLY AND TRANSPORT OF PARTS AND PACKAGING"
+            },
+            {
+                "name": "Traceability in factories (telematics, packaging, parts & processes)",
+                "value": "Traceability in factories (telematics, packaging, parts & processes)"
+            },
+            {
+                "name": "Transport and storage of vehicles",
+                "value": "Transport and storage of vehicles"
+            }
+        ],
+        "value": "Manufacturing Management"
+    },
+    {
+        "name": "Mobility Management",
+        "subpurpose": [
+            {
+                "name": "Fleet Management (B2B)",
+                "value": "Fleet Management (B2B)"
+            },
+            {
+                "name": "Vehicle rental (short duration)",
+                "value": "Vehicle rental (short duration)"
+            },
+            {
+                "name": "Vehicle sales intermediation (C2C)",
+                "value": "Vehicle sales intermediation (C2C)"
+            },
+            {
+                "name": "Vehicle sharing",
+                "value": "Vehicle sharing"
+            }
+        ],
+        "value": "Mobility Management"
+    },
+    {
+        "name": "Monitoring and improvement of vehicles and associated services",
+        "subpurpose": [
+            {
+                "name": "Improved car satisfaction users",
+                "value": "Improved car satisfaction users"
+            },
+            {
+                "name": "Improved sales and services sales (management and reporting)",
+                "value": "Improved sales and services sales (management and reporting)"
+            },
+            {
+                "name": "Incidental and sustainability studies",
+                "value": "Incidental and sustainability studies"
+            },
+            {
+                "name": "Management and analysis of vehicle rolling (pre-OLV / OLV)",
+                "value": "Management and analysis of vehicle rolling (pre-OLV / OLV)"
+            },
+            {
+                "name": "Management of recall campaigns (OTS)",
+                "value": "Management of recall campaigns (OTS)"
+            },
+            {
+                "name": "Model optimization, product improvement and services",
+                "value": "Model optimization, product improvement and services"
+            },
+            {
+                "name": "Product quality analysis and monitoring and manufacturing processing / logistics",
+                "value": "Product quality analysis and monitoring and manufacturing processing / logistics"
+            },
+            {
+                "name": "Vehicle management impacted by a quality blockage",
+                "value": "Vehicle management impacted by a quality blockage"
+            }
+        ],
+        "value": "Monitoring and improvement of vehicles and associated services"
+    },
+    {
+        "name": "User relationship management ",
+        "subpurpose": [
+            {
+                "name": "Car User Management with secondary users",
+                "value": "Car User Management with secondary users"
+            }
+        ],
+        "value": "User relationship management "
+    },
+    {
+        "name": "Analytics ",
+        "subpurpose": [
+            {
+                "name": "Assess marketing performance ",
+                "value": "Assess marketing performance "
+            },
+            {
+                "name": "To improve the website marketing performance & understand the journey of a visitor",
+                "value": "To improve the website marketing performance & understand the journey of a visitor"
+            }
+        ],
+        "value": "Analytics "
+    },
+    {
+        "name": "Customer relationship management",
+        "subpurpose": [
+            {
+                "name": "Prospects complaints (management & reporting)",
+                "value": "Prospects complaints (management & reporting)"
+            },
+            {
+                "name": "Customer complaints (management and reporting)",
+                "value": "Customer complaints (management and reporting)"
+            },
+            {
+                "name": "Customers' GDPR DSR Operations Management",
+                "value": "Customers' GDPR DSR Operations Management"
+            },
+            {
+                "name": "Management and reporting of customer satisfaction surveys (brand, product use, trends)",
+                "value": "Management and reporting of customer satisfaction surveys (brand, product use, trends)"
+            },
+            {
+                "name": "Management of the car user  repository",
+                "value": "Management of the car user  repository"
+            },
+            {
+                "name": "Management of the leaseholder  repository",
+                "value": "Management of the leaseholder  repository"
+            },
+            {
+                "name": "Management of the owner  repository",
+                "value": "Management of the owner  repository"
+            },
+            {
+                "name": "Management of the prospect repository",
+                "value": "Management of the prospect repository"
+            },
+            {
+                "name": "Management of user accounts on Group applications including temporary (Customers and prospects)",
+                "value": "Management of user accounts on Group applications including temporary (Customers and prospects)"
+            },
+            {
+                "name": "Monitoring and management of internet user reviews (brands and products)",
+                "value": "Monitoring and management of internet user reviews (brands and products)"
+            },
+            {
+                "name": "Prospects GDPR DSR Operations Management",
+                "value": "Prospects GDPR DSR Operations Management"
+            },
+            {
+                "name": "Requests for information on brands and products Management",
+                "value": "Requests for information on brands and products Management"
+            }
+        ],
+        "value": "Customer relationship management"
+    },
+    {
+        "name": "Marketing Management",
+        "subpurpose": [
+            {
+                "name": "Online targeting (Customers and prospects)",
+                "value": "Online targeting (Customers and prospects)"
+            },
+            {
+                "name": "Advanced analysis for personalization of prospecting",
+                "value": "Advanced analysis for personalization of prospecting"
+            },
+            {
+                "name": "Customer event management (incl. Forum, community)",
+                "value": "Customer event management (incl. Forum, community)"
+            },
+            {
+                "name": "Customers and market knowledge",
+                "value": "Customers and market knowledge"
+            },
+            {
+                "name": "Marketing Campaign",
+                "value": "Marketing Campaign"
+            },
+            {
+                "name": "marketing Games (quiz, personal Sponsorhip, Game, Promotional E-Voucher)",
+                "value": "marketing Games (quiz, personal Sponsorhip, Game, Promotional E-Voucher)"
+            },
+            {
+                "name": "newsletters to Customers and prospects Management (generic newsletters)",
+                "value": "newsletters to Customers and prospects Management (generic newsletters)"
+            }
+        ],
+        "value": "Marketing Management"
+    },
+    {
+        "name": "Pre-sales relationship management",
+        "subpurpose": [
+            {
+                "name": "Commercial vehicle offers (incl. Offline & online for new vehicles, online for used vehicles)",
+                "value": "Commercial vehicle offers (incl. Offline & online for new vehicles, online for used vehicles)"
+            },
+            {
+                "name": "Online vehicle pre reservation before purchase (customer)",
+                "value": "Online vehicle pre reservation before purchase (customer)"
+            },
+            {
+                "name": "To be Contacted for Pre-reservation payment link",
+                "value": "To be Contacted for Pre-reservation payment link"
+            },
+            {
+                "name": "Vehicle test by prospect",
+                "value": "Vehicle test by prospect"
+            }
+        ],
+        "value": "Pre-sales relationship management"
+    },
+    {
+        "name": "Administrative management of staff and beneficiaries",
+        "subpurpose": [
+            {
+                "name": " staff representatives' mandates management",
+                "value": " staff representatives' mandates management"
+            },
+            {
+                "name": "Administrative management of retirees and beneficiaries",
+                "value": "Administrative management of retirees and beneficiaries"
+            },
+            {
+                "name": "DSR made by employees management",
+                "value": "DSR made by employees management"
+            },
+            {
+                "name": "Employee professional expense reports Management",
+                "value": "Employee professional expense reports Management"
+            },
+            {
+                "name": "employees' professional files management",
+                "value": "employees' professional files management"
+            },
+            {
+                "name": "Human Resources Management Information System",
+                "value": "Human Resources Management Information System"
+            },
+            {
+                "name": "Professional elections management",
+                "value": "Professional elections management"
+            },
+            {
+                "name": "Provision of personnel to third parties",
+                "value": "Provision of personnel to third parties"
+            },
+            {
+                "name": "Staff remuneration Management",
+                "value": "Staff remuneration Management"
+            },
+            {
+                "name": "staff representatives meetings management",
+                "value": "staff representatives meetings management"
+            }
+        ],
+        "value": "Administrative management of staff and beneficiaries"
+    },
+    {
+        "name": "Career and mobility management",
+        "subpurpose": [
+            {
+                "name": "Career management (incl. Career simulation)",
+                "value": "Career management (incl. Career simulation)"
+            },
+            {
+                "name": "Career mobilty management",
+                "value": "Career mobilty management"
+            },
+            {
+                "name": "Forecast management of employment and skills",
+                "value": "Forecast management of employment and skills"
+            },
+            {
+                "name": "Management of tasks and projects carried out by employees (entrepreneurship)",
+                "value": "Management of tasks and projects carried out by employees (entrepreneurship)"
+            },
+            {
+                "name": "Professional assessment of employees (excluding psychological profile)",
+                "value": "Professional assessment of employees (excluding psychological profile)"
+            },
+            {
+                "name": "Professional assessment of employees (excluding psychological profile)",
+                "value": "Professional assessment of employees (excluding psychological profile)"
+            },
+            {
+                "name": "Validation of professional knowledge",
+                "value": "Validation of professional knowledge"
+            }
+        ],
+        "value": "Career and mobility management"
+    },
+    {
+        "name": "Futur employees recruitment",
+        "subpurpose": [
+            {
+                "name": "Management of interviews with Applicants to a job",
+                "value": "Management of interviews with Applicants to a job"
+            },
+            {
+                "name": "Management of interviews with Applicants to a job",
+                "value": "Management of interviews with Applicants to a job"
+            },
+            {
+                "name": "Management of recruitment procedures in connection with the hierarchies of the people to be recruited",
+                "value": "Management of recruitment procedures in connection with the hierarchies of the people to be recruited"
+            },
+            {
+                "name": "Receipt and registrations of Applicantures to a job",
+                "value": "Receipt and registrations of Applicantures to a job"
+            },
+            {
+                "name": "Responses to Applicants to a job (incl. Internship and apprenticeship)",
+                "value": "Responses to Applicants to a job (incl. Internship and apprenticeship)"
+            }
+        ],
+        "value": "Futur employees recruitment"
+    },
+    {
+        "name": "Health & Labour Medicine ",
+        "subpurpose": [
+            {
+                "name": "Completion of questionnaires on the state of health of employees",
+                "value": "Completion of questionnaires on the state of health of employees"
+            },
+            {
+                "name": "Management of employee arrival visits, periodic visits, return visits, visits at the employer's request",
+                "value": "Management of employee arrival visits, periodic visits, return visits, visits at the employer's request"
+            },
+            {
+                "name": "Management of employee medical files",
+                "value": "Management of employee medical files"
+            },
+            {
+                "name": "Management of hiring visits",
+                "value": "Management of hiring visits"
+            },
+            {
+                "name": "Management of occupational accidents",
+                "value": "Management of occupational accidents"
+            }
+        ],
+        "value": "Health & Labour Medicine "
+    },
+    {
+        "name": "Listening and psychological support system for staff",
+        "subpurpose": [
+            {
+                "name": "Management of psychological support interviews and production of anonymous statistics",
+                "value": "Management of psychological support interviews and production of anonymous statistics"
+            }
+        ],
+        "value": "Listening and psychological support system for staff"
+    },
+    {
+        "name": "Management of services to people present on local site",
+        "subpurpose": [
+            {
+                "name": " company vehicle fleets management",
+                "value": " company vehicle fleets management"
+            },
+            {
+                "name": "Business travel management",
+                "value": "Business travel management"
+            },
+            {
+                "name": "Collective corporate catering (pricing applicable, payment by badge, credit card or cash)",
+                "value": "Collective corporate catering (pricing applicable, payment by badge, credit card or cash)"
+            },
+            {
+                "name": "individual allocations of supplies, equipment, vehicles and payment card management",
+                "value": "individual allocations of supplies, equipment, vehicles and payment card management"
+            },
+            {
+                "name": "Management of intervention requests",
+                "value": "Management of intervention requests"
+            },
+            {
+                "name": "Provision of services to residents (e.g. reprography tools)",
+                "value": "Provision of services to residents (e.g. reprography tools)"
+            }
+        ],
+        "value": "Management of services to people present on local site"
+    },
+    {
+        "name": "Management of working conditions",
+        "subpurpose": [
+            {
+                "name": "Analysis and improvement of working conditions",
+                "value": "Analysis and improvement of working conditions"
+            },
+            {
+                "name": "Management and optimization of workspaces (offices)",
+                "value": "Management and optimization of workspaces (offices)"
+            },
+            {
+                "name": "Receipt and follow-up of teleworking activity requests",
+                "value": "Receipt and follow-up of teleworking activity requests"
+            },
+            {
+                "name": "Statistics relating to the teleworking system",
+                "value": "Statistics relating to the teleworking system"
+            },
+            {
+                "name": "Time management and organizational arrangements for employee activity",
+                "value": "Time management and organizational arrangements for employee activity"
+            }
+        ],
+        "value": "Management of working conditions"
+    },
+    {
+        "name": "Professionnal training",
+        "subpurpose": [
+            {
+                "name": " Training sessions Planification ",
+                "value": " Training sessions Planification "
+            },
+            {
+                "name": "Call recording for training, employee assessment and service quality improvement",
+                "value": "Call recording for training, employee assessment and service quality improvement"
+            },
+            {
+                "name": "Certification management (eg IFACI, ISO)",
+                "value": "Certification management (eg IFACI, ISO)"
+            },
+            {
+                "name": "Knowledge assessment and training",
+                "value": "Knowledge assessment and training"
+            },
+            {
+                "name": "training requests and training periods carried out management",
+                "value": "training requests and training periods carried out management"
+            }
+        ],
+        "value": "Professionnal training"
+    },
+    {
+        "name": "Social Action management",
+        "subpurpose": [
+            {
+                "name": " allowances allocated to employees (e.g. Christmas) management",
+                "value": " allowances allocated to employees (e.g. Christmas) management"
+            },
+            {
+                "name": "Processing of requests for non-refundable financial assistance Management",
+                "value": "Processing of requests for non-refundable financial assistance Management"
+            },
+            {
+                "name": "Social loan management",
+                "value": "Social loan management"
+            },
+            {
+                "name": "Social services Management",
+                "value": "Social services Management"
+            }
+        ],
+        "value": "Social Action management"
+    },
+    {
+        "name": " photos and videos management",
+        "subpurpose": [
+            {
+                "name": "Management of the media library marketing and communication",
+                "value": "Management of the media library marketing and communication"
+            }
+        ],
+        "value": " photos and videos management"
+    },
+    {
+        "name": "External Communication management",
+        "subpurpose": [
+            {
+                "name": "Event Management Organized by Vinfast Europe for its audiences and personal (excluding internal events)",
+                "value": "Event Management Organized by Vinfast Europe for its audiences and personal (excluding internal events)"
+            },
+            {
+                "name": "Management and sending external newsletters (excluding commercial)",
+                "value": "Management and sending external newsletters (excluding commercial)"
+            },
+            {
+                "name": "Management of Group Trademark Ambassadors (List of Contacts and Endowments Tracking)",
+                "value": "Management of Group Trademark Ambassadors (List of Contacts and Endowments Tracking)"
+            },
+            {
+                "name": "Press and Media Management (Application Management, Dissemination List and Sending Press Releases or Invitations)",
+                "value": "Press and Media Management (Application Management, Dissemination List and Sending Press Releases or Invitations)"
+            }
+        ],
+        "value": "External Communication management"
+    },
+    {
+        "name": "Management of shareholders and investors",
+        "subpurpose": [
+            {
+                "name": "Management of the relationship with investors",
+                "value": "Management of the relationship with investors"
+            },
+            {
+                "name": "Management of the relationship with shareholders",
+                "value": "Management of the relationship with shareholders"
+            },
+            {
+                "name": "Shareholder Club Management",
+                "value": "Shareholder Club Management"
+            }
+        ],
+        "value": "Management of shareholders and investors"
+    },
+    {
+        "name": "Management of Social Networks of Vinfast Europe",
+        "subpurpose": [
+            {
+                "name": "Account Management and Interactions (Public or Private Messaging) with Subscribers and Other Users of Vinfast Europe Social Networks",
+                "value": "Account Management and Interactions (Public or Private Messaging) with Subscribers and Other Users of Vinfast Europe Social Networks"
+            },
+            {
+                "name": "Management of the performance and the audience of digital channels",
+                "value": "Management of the performance and the audience of digital channels"
+            }
+        ],
+        "value": "Management of Social Networks of Vinfast Europe"
+    },
+    {
+        "name": "Picture and Community activities",
+        "subpurpose": [
+            {
+                "name": "Management of cultural activities",
+                "value": "Management of cultural activities"
+            },
+            {
+                "name": "Management of sponsorships and community activities",
+                "value": "Management of sponsorships and community activities"
+            }
+        ],
+        "value": "Picture and Community activities"
+    },
+    {
+        "name": "Public Affairs Management",
+        "subpurpose": [
+            {
+                "name": "Management of interest representation actions",
+                "value": "Management of interest representation actions"
+            },
+            {
+                "name": "Management of public biographies",
+                "value": "Management of public biographies"
+            },
+            {
+                "name": "Mapping and follow-up of public opinion",
+                "value": "Mapping and follow-up of public opinion"
+            },
+            {
+                "name": "Relations with professional associations",
+                "value": "Relations with professional associations"
+            },
+            {
+                "name": "Relations with public authorities",
+                "value": "Relations with public authorities"
+            },
+            {
+                "name": "Relationship with public persons",
+                "value": "Relationship with public persons"
+            }
+        ],
+        "value": "Public Affairs Management"
+    },
+    {
+        "name": "Social Responsibility of the Company (CSR) (excluding environment)",
+        "subpurpose": [
+            {
+                "name": "Investment management in start-ups and associations",
+                "value": "Investment management in start-ups and associations"
+            },
+            {
+                "name": "Management and animation of projects around inclusion and diversity",
+                "value": "Management and animation of projects around inclusion and diversity"
+            },
+            {
+                "name": "Management of solidarity activities",
+                "value": "Management of solidarity activities"
+            }
+        ],
+        "value": "Social Responsibility of the Company (CSR) (excluding environment)"
+    },
+    {
+        "name": "Web site management administered by VinFast Europe and associated requests",
+        "subpurpose": [
+            {
+                "name": "Management of remarks and reports addressed to the editorial and webmaster of Vinfast Europe sites",
+                "value": "Management of remarks and reports addressed to the editorial and webmaster of Vinfast Europe sites"
+            },
+            {
+                "name": "Management of requests made via the contact forms on the sites of Vinfast Europe",
+                "value": "Management of requests made via the contact forms on the sites of Vinfast Europe"
+            },
+            {
+                "name": "Production of Activity, Hearing and Use of Online Service Statistics offered by Vinfast Europe",
+                "value": "Production of Activity, Hearing and Use of Online Service Statistics offered by Vinfast Europe"
+            }
+        ],
+        "value": "Web site management administered by VinFast Europe and associated requests"
+    },
+    {
+        "name": "IT and telecom support management",
+        "subpurpose": [
+            {
+                "name": "Production of Activity Statistics of the IT (global and individualized)",
+                "value": "Production of Activity Statistics of the IT (global and individualized)"
+            },
+            {
+                "name": "Provision of a tool for transmitting an application to the IT department (ticket) and to take into account",
+                "value": "Provision of a tool for transmitting an application to the IT department (ticket) and to take into account"
+            },
+            {
+                "name": "Workload management of computer service teams and task planning",
+                "value": "Workload management of computer service teams and task planning"
+            }
+        ],
+        "value": "IT and telecom support management"
+    },
+    {
+        "name": "Provision and management of IT tools and means of communication",
+        "subpurpose": [
+            {
+                "name": "Electronic voting management",
+                "value": "Electronic voting management"
+            },
+            {
+                "name": "Corporate telephony management",
+                "value": "Corporate telephony management"
+            },
+            {
+                "name": "Management of professional agendas",
+                "value": "Management of professional agendas"
+            },
+            {
+                "name": "Measure of use / performance and improvement of digital tools made available to employees",
+                "value": "Measure of use / performance and improvement of digital tools made available to employees"
+            },
+            {
+                "name": "Monitoring and maintenance of IT equipment, including office tools, communication tools, corporate social network",
+                "value": "Monitoring and maintenance of IT equipment, including office tools, communication tools, corporate social network"
+            },
+            {
+                "name": "Professional e-mail management",
+                "value": "Professional e-mail management"
+            },
+            {
+                "name": "Providing Virtual Private Networks for Dissemination or Collection of Administrative Management Data",
+                "value": "Providing Virtual Private Networks for Dissemination or Collection of Administrative Management Data"
+            }
+        ],
+        "value": "Provision and management of IT tools and means of communication"
+    },
+    {
+        "name": "Securing information systems and IT tools",
+        "subpurpose": [
+            {
+                "name": "Functioning and securing websites",
+                "value": "Functioning and securing websites"
+            },
+            {
+                "name": "Management of requests to the Security Teams and Tracking IT Projects",
+                "value": "Management of requests to the Security Teams and Tracking IT Projects"
+            },
+            {
+                "name": "Security and proper functioning of computer applications and networks (safety logs from IS, incident prevention)",
+                "value": "Security and proper functioning of computer applications and networks (safety logs from IS, incident prevention)"
+            },
+            {
+                "name": "Supervision of the access authorization policy for users and administrators to VinFast Europe information systems",
+                "value": "Supervision of the access authorization policy for users and administrators to VinFast Europe information systems"
+            },
+            {
+                "name": "Vulnerability Management and Security Incidents (Collection of Incident Data, Operations, Corrective Action Management, Resolution Statistics, Managing a Security Contacts and SSI Procedures)",
+                "value": "Vulnerability Management and Security Incidents (Collection of Incident Data, Operations, Corrective Action Management, Resolution Statistics, Managing a Security Contacts and SSI Procedures)"
+            }
+        ],
+        "value": "Securing information systems and IT tools"
+    },
+    {
+        "name": "Internal control & audit management",
+        "subpurpose": [
+            {
+                "name": "Follow-up of recommendations and action plans for internal controls and audits",
+                "value": "Follow-up of recommendations and action plans for internal controls and audits"
+            },
+            {
+                "name": "Implementation of internal control and audit measurement",
+                "value": "Implementation of internal control and audit measurement"
+            },
+            {
+                "name": "Internal Audit and Analysis",
+                "value": "Internal Audit and Analysis"
+            },
+            {
+                "name": "Realization and analysis of internal controls",
+                "value": "Realization and analysis of internal controls"
+            }
+        ],
+        "value": "Internal control & audit management"
+    },
+    {
+        "name": "Internal delegations Management",
+        "subpurpose": [
+            {
+                "name": "Electronic signature management",
+                "value": "Electronic signature management"
+            },
+            {
+                "name": "Internal management of an expenditure project",
+                "value": "Internal management of an expenditure project"
+            },
+            {
+                "name": "Management of banking powers",
+                "value": "Management of banking powers"
+            },
+            {
+                "name": "Management of the Criminal Liability Delegation",
+                "value": "Management of the Criminal Liability Delegation"
+            },
+            {
+                "name": "Management of the Delegation of Authority (DAA)",
+                "value": "Management of the Delegation of Authority (DAA)"
+            },
+            {
+                "name": "Management of the delegation of signature",
+                "value": "Management of the delegation of signature"
+            }
+        ],
+        "value": "Internal delegations Management"
+    },
+    {
+        "name": "Legal constraints",
+        "subpurpose": [
+            {
+                "name": "Management of the General Assembly",
+                "value": "Management of the General Assembly"
+            },
+            {
+                "name": "Query management, control and inspections made by the authorities",
+                "value": "Query management, control and inspections made by the authorities"
+            }
+        ],
+        "value": "Legal constraints"
+    },
+    {
+        "name": "Litigation management",
+        "subpurpose": [
+            {
+                "name": "Litigation management employees",
+                "value": "Litigation management employees"
+            },
+            {
+                "name": "Management of offenses and convictions",
+                "value": "Management of offenses and convictions"
+            },
+            {
+                "name": "Management of road contravention recovery",
+                "value": "Management of road contravention recovery"
+            },
+            {
+                "name": "Management of unpaid bills",
+                "value": "Management of unpaid bills"
+            },
+            {
+                "name": "Preconstitutional and Litigation Management",
+                "value": "Preconstitutional and Litigation Management"
+            }
+        ],
+        "value": "Litigation management"
+    },
+    {
+        "name": "Management of professional alerts",
+        "subpurpose": [
+            {
+                "name": "Receipt and registration of requests and reports of professional alerts",
+                "value": "Receipt and registration of requests and reports of professional alerts"
+            }
+        ],
+        "value": "Management of professional alerts"
+    },
+    {
+        "name": "Professional alerts Management",
+        "subpurpose": [
+            {
+                "name": "Development of business alert activity data (statistics)",
+                "value": "Development of business alert activity data (statistics)"
+            },
+            {
+                "name": "Review and monitoring of requests and reports (professional alerts)",
+                "value": "Review and monitoring of requests and reports (professional alerts)"
+            }
+        ],
+        "value": "Professional alerts Management"
+    },
+    {
+        "name": "Risk management",
+        "subpurpose": [
+            {
+                "name": "Detection of fraud and corruption",
+                "value": "Detection of fraud and corruption"
+            },
+            {
+                "name": "Insider Management",
+                "value": "Insider Management"
+            },
+            {
+                "name": "Insurance management",
+                "value": "Insurance management"
+            },
+            {
+                "name": "Management of corporal claims & materials",
+                "value": "Management of corporal claims & materials"
+            },
+            {
+                "name": "Management of due diligences",
+                "value": "Management of due diligences"
+            }
+        ],
+        "value": "Risk management"
+    },
+    {
+        "name": "Data Valorization ",
+        "subpurpose": [
+            {
+                "name": "Exploration, transformation",
+                "value": "Exploration, transformation"
+            },
+            {
+                "name": "Proofs of concept Management",
+                "value": "Proofs of concept Management"
+            }
+        ],
+        "value": "Data Valorization "
+    },
+    {
+        "name": "Research & Advanced ingeneering ",
+        "subpurpose": [
+            {
+                "name": "Directory of volunteers for participation in studies",
+                "value": "Directory of volunteers for participation in studies"
+            },
+            {
+                "name": "Reasearch on new ADAS or autonomous drive",
+                "value": "Reasearch on new ADAS or autonomous drive"
+            },
+            {
+                "name": "Recherche sur le véhicule électrique et son écosystème",
+                "value": "Recherche sur le véhicule électrique et son écosystème"
+            },
+            {
+                "name": "Research & development on new functionnalities for connected vehicle ",
+                "value": "Research & development on new functionnalities for connected vehicle "
+            },
+            {
+                "name": "Research on research on the behavior of people interacting with the vehicle",
+                "value": "Research on research on the behavior of people interacting with the vehicle"
+            },
+            {
+                "name": "Research on the life on board",
+                "value": "Research on the life on board"
+            }
+        ],
+        "value": "Research & Advanced ingeneering "
+    },
+    {
+        "name": "Crisis management",
+        "subpurpose": [
+            {
+                "name": "Management of crisis and emergency situations",
+                "value": "Management of crisis and emergency situations"
+            },
+            {
+                "name": "Management of crisis and penalty directories",
+                "value": "Management of crisis and penalty directories"
+            },
+            {
+                "name": "Management of data violations",
+                "value": "Management of data violations"
+            }
+        ],
+        "value": "Crisis management"
+    },
+    {
+        "name": "Police request",
+        "subpurpose": [
+            {
+                "name": "Flights of vehicle parts flights",
+                "value": "Flights of vehicle parts flights"
+            },
+            {
+                "name": "Traceability management of stolen vehicles (geolocation)",
+                "value": "Traceability management of stolen vehicles (geolocation)"
+            }
+        ],
+        "value": "Police request"
+    },
+    {
+        "name": "Protection of goods and people",
+        "subpurpose": [
+            {
+                "name": "Alert management (events that could impact the safety or health of employees)",
+                "value": "Alert management (events that could impact the safety or health of employees)"
+            },
+            {
+                "name": "Control of on-site access",
+                "value": "Control of on-site access"
+            },
+            {
+                "name": "Safety of goods and people (CCTV)",
+                "value": "Safety of goods and people (CCTV)"
+            },
+            {
+                "name": "Traveler Management (incl. Repatriation)",
+                "value": "Traveler Management (incl. Repatriation)"
+            },
+            {
+                "name": "Visitor management",
+                "value": "Visitor management"
+            }
+        ],
+        "value": "Protection of goods and people"
+    },
+    {
+        "name": "Management of the relationship with Vinfast Showroom ",
+        "subpurpose": [
+            {
+                "name": "Accreditation management with the commercial network",
+                "value": "Accreditation management with the commercial network"
+            },
+            {
+                "name": "Audit management concerning the quality of the commercial network",
+                "value": "Audit management concerning the quality of the commercial network"
+            },
+            {
+                "name": "Commercial network animation",
+                "value": "Commercial network animation"
+            },
+            {
+                "name": "Followed by the fleet vehicles in the network",
+                "value": "Followed by the fleet vehicles in the network"
+            },
+            {
+                "name": "Provision and performance monitoring of digital tools used by the network",
+                "value": "Provision and performance monitoring of digital tools used by the network"
+            },
+            {
+                "name": "Recruitment of R2 members",
+                "value": "Recruitment of R2 members"
+            },
+            {
+                "name": "Tracking the relationship with the commercial network",
+                "value": "Tracking the relationship with the commercial network"
+            },
+            {
+                "name": "Training of the Commercial & Assimilated Network (incl. Follow-up of the Performance and Quality Review)",
+                "value": "Training of the Commercial & Assimilated Network (incl. Follow-up of the Performance and Quality Review)"
+            }
+        ],
+        "value": "Management of the relationship with Vinfast Showroom "
+    },
+    {
+        "name": "Supplier and service provider relationship management",
+        "subpurpose": [
+            {
+                "name": "Follow-up of the prerequisites mentioned in the certifications of suppliers",
+                "value": "Follow-up of the prerequisites mentioned in the certifications of suppliers"
+            },
+            {
+                "name": "Management of the contractual relationship with suppliers",
+                "value": "Management of the contractual relationship with suppliers"
+            },
+            {
+                "name": "Monitoring the improvement of product quality and performance and benefits provided by suppliers",
+                "value": "Monitoring the improvement of product quality and performance and benefits provided by suppliers"
+            },
+            {
+                "name": "Selection of suppliers for the needs of the company",
+                "value": "Selection of suppliers for the needs of the company"
+            }
+        ],
+        "value": "Supplier and service provider relationship management"
+    },
+    {
+        "name": "Administrative Team Management",
+        "subpurpose": [
+            {
+                "name": "Management of internal directories, trombinoscope, and organizational charts",
+                "value": "Management of internal directories, trombinoscope, and organizational charts"
+            },
+            {
+                "name": "Organization of arrivals and departures of employees, trainees, apprentices",
+                "value": "Organization of arrivals and departures of employees, trainees, apprentices"
+            },
+            {
+                "name": "Organization of business trips",
+                "value": "Organization of business trips"
+            }
+        ],
+        "value": "Administrative Team Management"
+    },
+    {
+        "name": "Communication management and internal animation",
+        "subpurpose": [
+            {
+                "name": "Management and animation of internal networks",
+                "value": "Management and animation of internal networks"
+            },
+            {
+                "name": "Management of mailing lists for sending event invitations and newsletters to employees",
+                "value": "Management of mailing lists for sending event invitations and newsletters to employees"
+            },
+            {
+                "name": "Management of the intranet and digital communication network animation tools (incl. Publication of content and comments)",
+                "value": "Management of the intranet and digital communication network animation tools (incl. Publication of content and comments)"
+            }
+        ],
+        "value": "Communication management and internal animation"
+    },
+    {
+        "name": "Management of the activities carried out by the teams",
+        "subpurpose": [
+            {
+                "name": "Dashboard and statistics of departmental activities",
+                "value": "Dashboard and statistics of departmental activities"
+            },
+            {
+                "name": "Management and conduct of employee surveys",
+                "value": "Management and conduct of employee surveys"
+            },
+            {
+                "name": "Management of employee attendance schedules",
+                "value": "Management of employee attendance schedules"
+            },
+            {
+                "name": "Management of the activity specific to each department (e.g. management of requests, projects, working groups, missions, forecasts, costs, productions, notifications to correspondents)",
+                "value": "Management of the activity specific to each department (e.g. management of requests, projects, working groups, missions, forecasts, costs, productions, notifications to correspondents)"
+            },
+            {
+                "name": "Monitoring of staff activity (eg task management, reporting, project monitoring)",
+                "value": "Monitoring of staff activity (eg task management, reporting, project monitoring)"
+            },
+            {
+                "name": "Traceability of decisions and actions (eg projects, vehicles)",
+                "value": "Traceability of decisions and actions (eg projects, vehicles)"
+            },
+            {
+                "name": "Management of access and authorizations to access the company's IS and associated applications",
+                "value": "Management of access and authorizations to access the company's IS and associated applications"
+            }
+        ],
+        "value": "Management of the activities carried out by the teams"
+    }
+]
