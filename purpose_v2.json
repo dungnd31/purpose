@@ -1,0 +1,327 @@
+[
+    {
+        "value": "Administrative Team Management",
+        "label": "Administrative Team Management",
+        "category": "Cross-functional activities",
+        "id": 1
+    },
+    {
+        "value": "Management of the activities carried out by the teams",
+        "label": "Management of the activities carried out by the teams",
+        "category": "Cross-functional activities",
+        "id": 2
+    },
+    {
+        "value": "Management of the tools used by the teams",
+        "label": "Management of the tools used by the teams",
+        "category": "Cross-functional activities",
+        "id": 3
+        
+    },
+    {
+        "value": "Communication management and internal animation",
+        "label": "Communication management and internal animation",
+        "category": "Cross-functional activities",
+        "id": 4
+    },
+    {
+        "value": "Pre-sales relationship management",
+        "label": "Pre-sales relationship management",
+        "category": "Customer relationship",
+        "id": 5
+    },
+    {
+        "value": "Customer relationship management",
+        "label": "Customer relationship management",
+        "category": "Customer relationship",
+        "id": 6
+    },
+    {
+        "value": "Marketing Management",
+        "label": "Marketing Management",
+        "category": "Customer relationship",
+        "id": 7
+    },
+    {
+        "value": "Accounting & financial management",
+        "label": "Accounting & financial management",
+        "category": "Banking and financial operations",
+        "id": 8
+    },
+    {
+        "value": "Financial analysis and reporting",
+        "label": "Financial analysis and reporting",
+        "category": "Banking and financial operations",
+        "id": 9
+    },
+    {
+        "value": "Career and mobility management",
+        "label": "Career and mobility management",
+        "category": "Employee relations",
+        "id": 10
+    },
+    {
+        "value": "Professionnal training",
+        "label": "Professionnal training",
+        "category": "Employee relations",
+        "id": 11
+    },
+    {
+        "value": "Management of services to people present on local site",
+        "label": "Management of services to people present on local site",
+        "category": "Employee relations",
+        "id": 12
+    },
+    {
+        "value": "Management of working conditions",
+        "label": "Management of working conditions",
+        "category": "Employee relations",
+        "id": 13
+    },
+    {
+        "value": "Administrative management of staff and beneficiaries",
+        "label": "Administrative management of staff and beneficiaries",
+        "category": "Employee relations",
+        "id": 14
+    },
+    {
+        "value": "Futur employees recruitment",
+        "label": "Futur employees recruitment",
+        "category": "Employee relations",
+        "id": 15
+    },
+    {
+        "value": "Health & Labour Medicine",
+        "label": "Health & Labour Medicine",
+        "category": "Employee relations",
+        "id": 16
+    },
+    {
+        "value": "Listening and psychological support system for staff",
+        "label": "Listening and psychological support system for staff",
+        "category": "Employee relations",
+        "id": 17
+    },
+    {
+        "value": "Social Action management",
+        "label": "Social Action management",
+        "category": "Employee relations",
+        "id": 18
+    },
+    {
+        "value": "IT and telecom support management",
+        "label": "IT and telecom support management",
+        "category": "IT & Digital",
+        "id": 19
+    },
+    {
+        "value": "Provision and management of IT tools and means of communication",
+        "label": "Provision and management of IT tools and means of communication",
+        "category": "IT & Digital",
+        "id": 20
+    },
+    {
+        "value": "Securing information systems and IT tools",
+        "label": "Securing information systems and IT tools",
+        "category": "IT & Digital",
+        "id": 21
+    },
+    {
+        "value": "internal control & audit management",
+        "label": "internal control & audit management",
+        "category": "Legal, ethics and compliance",
+        "id": 22
+    },
+    {
+        "value": "Internal delegations Management",
+        "label": "Internal delegations Management",
+        "category": "Legal, ethics and compliance",
+        "id": 23
+    },
+    {
+        "value": "Legal constraints",
+        "label": "Legal constraints",
+        "category": "Legal, ethics and compliance",
+        "id": 24
+    },
+    {
+        "value": "Litigation management",
+        "label": "Litigation management",
+        "category": "Legal, ethics and compliance",
+        "id": 25
+    },
+    {
+        "value": "Management of professional alerts",
+        "label": "Management of professional alerts",
+        "category": "Legal, ethics and compliance",
+        "id": 26
+    },
+    {
+        "value": "Professional alerts Management",
+        "label": "Professional alerts Management",
+        "category": "Legal, ethics and compliance",
+        "id": 27
+    },
+    {
+        "value": "Risk management",
+        "label": "Risk management",
+        "category": "Legal, ethics and compliance",
+        "id": 28
+    },
+    {
+        "value": "External Communication management",
+        "label": "External Communication management",
+        "category": "Internal and external relations and communication",
+        "id": 29
+    },
+    {
+        "value": "Management of shareholders and investors",
+        "label": "Management of shareholders and investors",
+        "category": "Internal and external relations and communication",
+        "id": 30
+    },
+    {
+        "value": "Management of Social Networks of Vinfast Europe",
+        "label": "Management of Social Networks of Vinfast Europe",
+        "category": "Internal and external relations and communication",
+        "id": 31
+    },
+    {
+        "value": "photos and videos management",
+        "label": "photos and videos management",
+        "category": "Internal and external relations and communication",
+        "id": 32
+    },
+    {
+        "value": "Picture And Community Activities",
+        "label": "Picture And Community Activities",
+        "category": "Internal and external relations and communication",
+        "id": 33
+    },
+    {
+        "value": "Public Affairs Management",
+        "label": "Public Affairs Management",
+        "category": "Internal and external relations and communication",
+        "id": 34
+    },
+    {
+        "value": "Social Responsibility of the Company (CSR) (excluding environment)",
+        "label": "Social Responsibility of the Company (CSR) (excluding environment)",
+        "category": "Internal and external relations and communication",
+        "id": 35
+    },
+    {
+        "value": "Web site management administered by VinFast Europe and associated requests",
+        "label": "Web site management administered by VinFast Europe and associated requests",
+        "category": "Internal and external relations and communication",
+        "id": 36
+    },
+    {
+        "value": "Management of the relationship with Vinfast Showroom",
+        "label": "Management of the relationship with Vinfast Showroom",
+        "category": "Relations with internal Show room",
+        "id": 37
+    },
+    {
+        "value": "Management of the relationship with Vinfast Showroom",
+        "label": "Management of the relationship with Vinfast Showroom",
+        "category": "Relations with third parties",
+        "id": 38
+    },
+    {
+        "value": "Supplier and service provider relationship management",
+        "label": "Supplier and service provider relationship management",
+        "category": "Relations with third parties",
+        "id": 39
+    },
+    {
+        "value": "Crisis management",
+        "label": "Crisis management",
+        "category": "Security (excl. IT)",
+        "id": 40
+    },
+    {
+        "value": "Police request",
+        "label": "Police request",
+        "category": "Security (excl. IT)",
+        "id": 41
+    },
+    {
+        "value": "Protection of goods and people",
+        "label": "Protection of goods and people",
+        "category": "Security (excl. IT)",
+        "id": 42
+    },
+    {
+        "value": "After-sales management (interventions on the vehicle))",
+        "label": "After-sales management (interventions on the vehicle))",
+        "category": "Vehicle relations",
+        "id": 43
+    },
+    {
+        "value": "Car Ownership & Transfert of ownership management",
+        "label": "Car Ownership & Transfert of ownership management",
+        "category": "Vehicle relations",
+        "id": 44
+    },
+    {
+        "value": "Car Relation Management",
+        "label": "Car Relation Management",
+        "category": "Vehicle relations",
+        "id": 45
+    },
+    {
+        "value": "Connected services",
+        "label": "Connected services",
+        "category": "Vehicle relations",
+        "id": 46
+    },
+    {
+        "value": "Contractual and financial management of product and service sales",
+        "label": "Contractual and financial management of product and service sales",
+        "category": "Vehicle relations",
+        "id": 47
+    },
+    {
+        "value": "Data valorization",
+        "label": "Data valorization",
+        "category": "Vehicle relations",
+        "id": 48
+    },
+    {
+        "value": "Manufacturing Management",
+        "label": "Manufacturing Management",
+        "category": "Vehicle relations",
+        "id": 49
+    },
+    {
+        "value": "Mobility Management",
+        "label": "Mobility Management",
+        "category": "Vehicle relations",
+        "id": 50
+    },
+    {
+        "value": "Monitoring and improvement of vehicles and associated services",
+        "label": "Monitoring and improvement of vehicles and associated services",
+        "category": "Vehicle relations",
+        "id": 51
+    },
+    {
+        "value": "User relationship management",
+        "label": "User relationship management",
+        "category": "Vehicle relations",
+        "id": 52
+    },
+    {
+        "value": "Data Valorization",
+        "label": "Data Valorization",
+        "category": "Research & Development",
+        "id": 53
+    },
+    {
+        "value": "Research & Advanced engeneering",
+        "label": "Research & Advanced engeneering",
+        "category": "Research & Development",
+        "id": 54
+    }
+]

@@ -1,0 +1,1484 @@
+[
+    {
+        "value": "Organization of arrivals and departures of employees, trainees, apprentices",
+        "label": "Organization of arrivals and departures of employees, trainees, apprentices",
+        "category": "Administrative Team Management",
+        "category_id": 1
+    },
+    {
+        "value": "Organization of business trips",
+        "label": "Organization of business trips",
+        "category": "Administrative Team Management",
+        "category_id": 1
+    },
+    {
+        "value": "Management of internal directories, trombinoscope, and organizational charts",
+        "label": "Management of internal directories, trombinoscope, and organizational charts",
+        "category": "Administrative Team Management",
+        "category_id": 1
+    },
+    {
+        "value": "Management of the activity specific to each department",
+        "label": "Management of the activity specific to each department (e.g. management of requests, projects, productions, notifications to correspondents)",
+        "category": "Management of the activities carried out by the teams",
+        "category_id": 2
+    },
+    {
+        "value": "Dashboard and statistics of departmental activities",
+        "label": "Dashboard and statistics of departmental activities",
+        "category": "Management of the activities carried out by the teams",
+        "category_id": 2
+    },
+    {
+        "value": "Monitoring of staff activity (eg task management, reporting, project monitoring)",
+        "label": "Monitoring of staff activity (eg task management, reporting, project monitoring)",
+        "category": "Management of the activities carried out by the teams",
+        "category_id": 2
+    },
+    {
+        "value": "Management and conduct of employee surveys",
+        "label": "Management and conduct of employee surveys",
+        "category": "Management of the activities carried out by the teams",
+        "category_id": 2
+    },
+    {
+        "value": "Management of employee attendance schedules",
+        "label": "Management of employee attendance schedules",
+        "category": "Management of the activities carried out by the teams",
+        "category_id": 2
+    },
+    {
+        "value": "Management of access and authorizations to access the company's IS and associated applications",
+        "label": "Management of access and authorizations to access the company's IS and associated applications",
+        "category": "Management of the tools used by the teams",
+        "category_id": 3
+    },
+    {
+        "value": "Management of mailing lists for sending event invitations and newsletters to employees",
+        "label": "Management of mailing lists for sending event invitations and newsletters to employees",
+        "category": "Communication management and internal animation",
+        "category_id": 4
+    },
+    {
+        "value": "Management and animation of internal networks",
+        "label": "Management and animation of internal networks",
+        "category": "Communication management and internal animation",
+        "category_id": 4
+    },
+    {
+        "value": "Management of the intranet and digital communication network animation tools (incl. Publication of content and comments)",
+        "label": "Management of the intranet and digital communication network animation tools (incl. Publication of content and comments)",
+        "category": "Communication management and internal animation",
+        "category_id": 4
+    },
+    {
+        "value": "To be Contacted for Pre-reservation payment link",
+        "label": "To be Contacted for Pre-reservation payment link",
+        "category": "Pre-sales relationship management",
+        "category_id": 5
+    },
+    {
+        "value": "Commercial vehicle offers (incl. Offline & online for new vehicles, online for used vehicles)",
+        "label": "Commercial vehicle offers (incl. Offline & online for new vehicles, online for used vehicles)",
+        "category": "Pre-sales relationship management",
+        "category_id": 5
+    },
+    {
+        "value": "Vehicle test by prospect",
+        "label": "Vehicle test by prospect",
+        "category": "Pre-sales relationship management",
+        "category_id": 5
+    },
+    {
+        "value": "Online vehicle pre reservation before purchase (customer)",
+        "label": "Online vehicle pre reservation before purchase (customer)",
+        "category": "Pre-sales relationship management",
+        "category_id": 5
+    },
+    {
+        "value": "Customer complaints (management and reporting)",
+        "label": "Customer complaints (management and reporting)",
+        "category": "Customer relationship management",
+        "category_id": 6
+    },
+    {
+        "value": "Management of the owner  repository",
+        "label": "Management of the owner  repository",
+        "category": "Customer relationship management",
+        "category_id": 6
+    },
+    {
+        "value": "Management of the leaseholder repository",
+        "label": "Management of the leaseholder repository",
+        "category": "Customer relationship management",
+        "category_id": 6
+    },
+    {
+        "value": "Management of the car user repository",
+        "label": "Management of the car user repository",
+        "category": "Customer relationship management",
+        "category_id": 6
+    },
+    {
+        "value": "Management and reporting of customer satisfaction surveys (brand, product use, trends)",
+        "label": "Management and reporting of customer satisfaction surveys (brand, product use, trends)",
+        "category": "Customer relationship management",
+        "category_id": 6
+    },
+    {
+        "value": "Monitoring and management of internet user reviews (brands and products)",
+        "label": "Monitoring and management of internet user reviews (brands and products)",
+        "category": "Customer relationship management",
+        "category_id": 6
+    },
+    {
+        "value": "Customers' GDPR DSR Operations Management",
+        "label": "Customers' GDPR DSR Operations Management",
+        "category": "Customer relationship management",
+        "category_id": 6
+    },
+    {
+        "value": "Requests for information on brands and products Management",
+        "label": "Requests for information on brands and products Management",
+        "category": "Customer relationship management",
+        "category_id": 6
+    },
+    {
+        "value": "Prospects complaints (management & reporting)",
+        "label": "Prospects complaints (management & reporting)",
+        "category": "Customer relationship management",
+        "category_id": 6
+    },
+    {
+        "value": "Prospects GDPR DSR Operations Management",
+        "label": "Prospects GDPR DSR Operations Management",
+        "category": "Customer relationship management",
+        "category_id": 6
+    },
+    {
+        "value": "Management of the prospect repository",
+        "label": "Management of the prospect repository",
+        "category": "Customer relationship management",
+        "category_id": 6
+    },
+    {
+        "value": "Management of user accounts on Group applications including temporary (Customers and prospects)",
+        "label": "Management of user accounts on Group applications including temporary (Customers and prospects)",
+        "category": "Customer relationship management",
+        "category_id": 6
+    },
+    {
+        "value": "Advanced analysis for personalization of prospecting",
+        "label": "Advanced analysis for personalization of prospecting",
+        "category": "Marketing Management",
+        "category_id": 7
+    },
+    {
+        "value": "Customer event management",
+        "label": "Customer event management (incl. Forum, community)",
+        "category": "Marketing Management",
+        "category_id": 7
+    },
+    {
+        "value": "Marketing Campaign",
+        "label": "Marketing Campaign",
+        "category": "Marketing Management",
+        "category_id": 7
+    },
+    {
+        "value": "marketing Games (quiz, personal Sponsorhip, Game, Promotional E-Voucher)",
+        "label": "marketing Games (quiz, personal Sponsorhip, Game, Promotional E-Voucher)",
+        "category": "Marketing Management",
+        "category_id": 7
+    },
+    {
+        "value": "newsletters to Customers and prospects Management",
+        "label": "newsletters to Customers and prospects Management (generic newsletters)",
+        "category": "Marketing Management",
+        "category_id": 7
+    },
+    {
+        "value": "Online targeting (Customers and prospects)",
+        "label": "Online targeting (Customers and prospects)",
+        "category": "Marketing Management",
+        "category_id": 7
+    },
+    {
+        "value": "Customers and market knowledge",
+        "label": "Customers and market knowledge",
+        "category": "Marketing Management",
+        "category_id": 7
+    },
+    {
+        "value": "marketing cookies and other tracers Management",
+        "label": "marketing cookies and other tracers Management",
+        "category": "Marketing Management",
+        "category_id": 7
+    },
+    {
+        "value": "Bank account management",
+        "label": "Bank account management",
+        "category": "Accounting & financial management",
+        "category_id": 8
+    },
+    {
+        "value": "Part inventory value analysis",
+        "label": "Part inventory value analysis",
+        "category": "Accounting & financial management",
+        "category_id": 8
+    },
+    {
+        "value": "Receipt and payment of invoices",
+        "label": "Receipt and payment of invoices",
+        "category": "Accounting & financial management",
+        "category_id": 8
+    },
+    {
+        "value": "Management of customs obligations",
+        "label": "Management of customs obligations",
+        "category": "Accounting & financial management",
+        "category_id": 8
+    },
+    {
+        "value": "Management of tax obligations",
+        "label": "Management of tax obligations",
+        "category": "Accounting & financial management",
+        "category_id": 8
+    },
+    {
+        "value": "Issuing of invoices and receipt of payments",
+        "label": "Issuing of invoices and receipt of payments",
+        "category": "Accounting & financial management",
+        "category_id": 8
+    },
+    {
+        "value": "Management of intra-group financial transfers",
+        "label": "Management of intra-group financial transfers",
+        "category": "Accounting & financial management",
+        "category_id": 8
+    },
+    {
+        "value": "Management of the allocation of financial resources and investment",
+        "label": "Management of the allocation of financial resources and investment",
+        "category": "Accounting & financial management",
+        "category_id": 8
+    },
+    {
+        "value": "Sales and rental management of Vinfast Europe buildings",
+        "label": "Sales and rental management of Vinfast Europe buildings",
+        "category": "Accounting & financial management",
+        "category_id": 8
+    },
+    {
+        "value": "Financial analysis of commercial and general expenses",
+        "label": "Financial analysis of commercial and general expenses",
+        "category": "Financial analysis and reporting",
+        "category_id": 9
+    },
+    {
+        "value": "Monitoring of the payroll, the consumption of the employment ceiling and the allocation of resources by department and Department and preparation of management documents with the budget manager",
+        "label": "Monitoring of the payroll, the consumption of the employment ceiling and the allocation of resources by department and Department and preparation of management documents with the budget manager",
+        "category": "Financial analysis and reporting",
+        "category_id": 9
+    },
+    {
+        "value": "Financial analysis and management of gross margin and cost of sales (excluding employees)",
+        "label": "Financial analysis and management of gross margin and cost of sales (excluding employees)",
+        "category": "Financial analysis and reporting",
+        "category_id": 9
+    },
+    {
+        "value": "Financial management analysis of collaborative R&AE projects",
+        "label": "Financial management analysis of collaborative R&AE projects",
+        "category": "Financial analysis and reporting",
+        "category_id": 9
+    },
+    {
+        "value": "Reporting and budget consolidation",
+        "label": "Reporting and budget consolidation",
+        "category": "Financial analysis and reporting",
+        "category_id": 9
+    },
+    {
+        "value": "Responses to requests from authorized third parties (statutory auditors, auditors, funders) to examine the management of Vinfast Europe projects",
+        "label": "Responses to requests from authorized third parties (statutory auditors, auditors, funders) to examine the management of Vinfast Europe projects",
+        "category": "Financial analysis and reporting",
+        "category_id": 9
+    },
+    {
+        "value": "Financial analysis and management of the commercial means provided to promote the sale of products and services",
+        "label": "Financial analysis and management of the commercial means provided to promote the sale of products and services (subsidiaries, networks, etc.)",
+        "category": "Financial analysis and reporting",
+        "category_id": 9
+    },
+    {
+        "value": "Career management (incl. Career simulation)",
+        "label": "Career management (incl. Career simulation)",
+        "category": "Career and mobility management",
+        "category_id": 10
+    },
+    {
+        "value": "Professional assessment of employees (excluding psychological profile)",
+        "label": "Professional assessment of employees (excluding psychological profile)",
+        "category": "Career and mobility management",
+        "category_id": 10
+    },
+    {
+        "value": "Career mobilty management",
+        "label": "Career mobilty management",
+        "category": "Career and mobility management",
+        "category_id": 10
+    },
+    {
+        "value": "Validation of professional knowledge",
+        "label": "Validation of professional knowledge",
+        "category": "Career and mobility management",
+        "category_id": 10
+    },
+    {
+        "value": "Management of tasks and projects carried out by employees (entrepreneurship)",
+        "label": "Management of tasks and projects carried out by employees (entrepreneurship)",
+        "category": "Career and mobility management",
+        "category_id": 10
+    },
+    {
+        "value": "Forecast management of employment and skills",
+        "label": "Forecast management of employment and skills",
+        "category": "Career and mobility management",
+        "category_id": 10
+    },
+    {
+        "value": "Certification management (eg IFACI, ISO)",
+        "label": "Certification management (eg IFACI, ISO)",
+        "category": "Professionnal training",
+        "category_id": 11
+    },
+    {
+        "value": "Knowledge assessment and training",
+        "label": "Knowledge assessment and training",
+        "category": "Professionnal training",
+        "category_id": 11
+    },
+    {
+        "value": "Call recording for training, employee assessment and service quality improvement",
+        "label": "Call recording for training, employee assessment and service quality improvement",
+        "category": "Professionnal training",
+        "category_id": 11
+    },
+    {
+        "value": "training requests and training periods carried out management",
+        "label": "training requests and training periods carried out management",
+        "category": "Professionnal training",
+        "category_id": 11
+    },
+    {
+        "value": "Training sessions Planification",
+        "label": "Training sessions Planification",
+        "category": "Professionnal training",
+        "category_id": 11
+    },
+    {
+        "value": "individual allocations of supplies, equipment, vehicles and payment card management",
+        "label": "individual allocations of supplies, equipment, vehicles and payment card management",
+        "category": "Management of services to people present on local site",
+        "category_id": 12
+    },
+    {
+        "value": "company vehicle fleets management",
+        "label": "company vehicle fleets management",
+        "category": "Management of services to people present on local site",
+        "category_id": 12
+    },
+    {
+        "value": "Provision of services to residents (e.g. reprography tools)",
+        "label": "Provision of services to residents (e.g. reprography tools)",
+        "category": "Management of services to people present on local site",
+        "category_id": 12
+    },
+    {
+        "value": "Collective corporate catering (pricing applicable, payment by badge, credit card or cash)",
+        "label": "Collective corporate catering (pricing applicable, payment by badge, credit card or cash)",
+        "category": "Management of services to people present on local site",
+        "category_id": 12
+    },
+    {
+        "value": "Business travel management",
+        "label": "Business travel management",
+        "category": "Management of services to people present on local site",
+        "category_id": 12
+    },
+    {
+        "value": "Management of intervention requests",
+        "label": "Management of intervention requests",
+        "category": "Management of services to people present on local site",
+        "category_id": 12
+    },
+    {
+        "value": "Analysis and improvement of working conditions",
+        "label": "Analysis and improvement of working conditions",
+        "category": "Management of working conditions",
+        "category_id": 13
+    },
+    {
+        "value": "Management and optimization of workspaces (offices)",
+        "label": "Management and optimization of workspaces (offices)",
+        "category": "Management of working conditions",
+        "category_id": 13
+    },
+    {
+        "value": "Time management and organizational arrangements for employee activity",
+        "label": "Time management and organizational arrangements for employee activity",
+        "category": "Management of working conditions",
+        "category_id": 13
+    },
+    {
+        "value": "Receipt and follow-up of teleworking activity requests",
+        "label": "Receipt and follow-up of teleworking activity requests",
+        "category": "Management of working conditions",
+        "category_id": 13
+    },
+    {
+        "value": "Statistics relating to the teleworking system",
+        "label": "Statistics relating to the teleworking system",
+        "category": "Management of working conditions",
+        "category_id": 13
+    },
+    {
+        "value": "On boarding process (for employee) management",
+        "label": "On boarding process (for employee) management",
+        "category": "Administrative management of staff and beneficiaries",
+        "category_id": 14
+    },
+    {
+        "value": "Exit process (for employee) management",
+        "label": "Exit process (for employee) management",
+        "category": "Administrative management of staff and beneficiaries",
+        "category_id": 14
+    },
+    {
+        "value": "employees' professional files management",
+        "label": "employees' professional files management",
+        "category": "Administrative management of staff and beneficiaries",
+        "category_id": 14
+    },
+    {
+        "value": "Health insurance management",
+        "label": "Health insurance management",
+        "category": "Administrative management of staff and beneficiaries",
+        "category_id": 14
+    },
+    {
+        "value": "Administrative management of retirees and beneficiaries",
+        "label": "Administrative management of retirees and beneficiaries",
+        "category": "Administrative management of staff and beneficiaries",
+        "category_id": 14
+    },
+    {
+        "value": "Employee professional expense reports Management",
+        "label": "Employee professional expense reports Management",
+        "category": "Administrative management of staff and beneficiaries",
+        "category_id": 14
+    },
+    {
+        "value": "Staff remuneration Management",
+        "label": "Staff remuneration Management",
+        "category": "Administrative management of staff and beneficiaries",
+        "category_id": 14
+    },
+    {
+        "value": "DSR made by employees management",
+        "label": "DSR made by employees management",
+        "category": "Administrative management of staff and beneficiaries",
+        "category_id": 14
+    },
+    {
+        "value": "Provision of personnel to third parties",
+        "label": "Provision of personnel to third parties",
+        "category": "Administrative management of staff and beneficiaries",
+        "category_id": 14
+    },
+    {
+        "value": "staff representatives meetings management",
+        "label": "staff representatives meetings management",
+        "category": "Administrative management of staff and beneficiaries",
+        "category_id": 14
+    },
+    {
+        "value": "Professional elections management",
+        "label": "Professional elections management",
+        "category": "Administrative management of staff and beneficiaries",
+        "category_id": 14
+    },
+    {
+        "value": "staff representatives' mandates management",
+        "label": "staff representatives' mandates management",
+        "category": "Administrative management of staff and beneficiaries",
+        "category_id": 14
+    },
+    {
+        "value": "Human Resources Management Information System",
+        "label": "Human Resources Management Information System",
+        "category": "Administrative management of staff and beneficiaries",
+        "category_id": 14
+    },
+    {
+        "value": "Management of interviews with Applicants to a job",
+        "label": "Management of interviews with Applicants to a job",
+        "category": "Futur employees recruitment",
+        "category_id": 15
+    },
+    {
+        "value": "Receipt and registrations of Applicantures to a job",
+        "label": "Receipt and registrations of Applicantures to a job",
+        "category": "Futur employees recruitment",
+        "category_id": 15
+    },
+    {
+        "value": "Management of recruitment procedures in connection with the hierarchies of the people to be recruited",
+        "label": "Management of recruitment procedures in connection with the hierarchies of the people to be recruited",
+        "category": "Futur employees recruitment",
+        "category_id": 15
+    },
+    {
+        "value": "Responses to Applicants to a job (incl. Internship and apprenticeship)",
+        "label": "Responses to Applicants to a job (incl. Internship and apprenticeship)",
+        "category": "Futur employees recruitment",
+        "category_id": 15
+    },
+    {
+        "value": "Management of employee arrival visits, periodic visits, return visits, visits at the employer's request",
+        "label": "Management of employee arrival visits, periodic visits, return visits, visits at the employer's request",
+        "category": "Health & Labour Medicine",
+        "category_id": 16
+    },
+    {
+        "value": "Management of hiring visits",
+        "label": "Management of hiring visits",
+        "category": "Health & Labour Medicine",
+        "category_id": 16
+    },
+    {
+        "value": "Management of employee medical files",
+        "label": "Management of employee medical files",
+        "category": "Health & Labour Medicine",
+        "category_id": 16
+    },
+    {
+        "value": "Management of occupational accidents",
+        "label": "Management of occupational accidents",
+        "category": "Health & Labour Medicine",
+        "category_id": 16
+    },
+    {
+        "value": "Completion of questionnaires on the state of health of employees",
+        "label": "Completion of questionnaires on the state of health of employees",
+        "category": "Health & Labour Medicine",
+        "category_id": 16
+    },
+    {
+        "value": "Management of psychological support interviews and production of anonymous statistics",
+        "label": "Management of psychological support interviews and production of anonymous statistics",
+        "category": "Listening and psychological support system for staff",
+        "category_id": 17
+    },
+    {
+        "value": "Social Action management",
+        "label": "Social Action management",
+        "category": "Social Action management",
+        "category_id": 18
+    },
+    {
+        "value": "Processing of requests for non-refundable financial assistance Management",
+        "label": "Processing of requests for non-refundable financial assistance Management",
+        "category": "Social Action management",
+        "category_id": 18
+    },
+    {
+        "value": "allowances allocated to employees (e.g. Christmas) management",
+        "label": "allowances allocated to employees (e.g. Christmas) management",
+        "category": "Social Action management",
+        "category_id": 18
+    },
+    {
+        "value": "Social loan management",
+        "label": "Social loan management",
+        "category": "Social Action management",
+        "category_id": 18
+    },
+    {
+        "value": "Provision of a tool for transmitting an application to the IT department (ticket) and to take into account",
+        "label": "Provision of a tool for transmitting an application to the IT department (ticket) and to take into account",
+        "category": "IT and telecom support management",
+        "category_id": 19
+    },
+    {
+        "value": "Workload management of computer service teams and task planning",
+        "label": "Workload management of computer service teams and task planning",
+        "category": "IT and telecom support management",
+        "category_id": 19
+    },
+    {
+        "value": "Production of Activity Statistics of the IT (global and individualized)",
+        "label": "Production of Activity Statistics of the IT (global and individualized)",
+        "category": "IT and telecom support management",
+        "category_id": 19
+    },
+    {
+        "value": "Electronic voting management",
+        "label": "Electronic voting management",
+        "category": "Provision and management of IT tools and means of communication",
+        "category_id": 20
+    },
+    {
+        "value": "Monitoring and maintenance of IT equipment, including office tools, communication tools, corporate social network",
+        "label": "Monitoring and maintenance of IT equipment, including office tools, communication tools, corporate social network",
+        "category": "Provision and management of IT tools and means of communication",
+        "category_id": 20
+    },
+    {
+        "value": "Management of professional agendas",
+        "label": "Management of professional agendas",
+        "category": "Provision and management of IT tools and means of communication",
+        "category_id": 20
+    },
+    {
+        "value": "Professional e-mail management",
+        "label": "Professional e-mail management",
+        "category": "Provision and management of IT tools and means of communication",
+        "category_id": 20
+    },
+    {
+        "value": "Corporate telephony management",
+        "label": "Corporate telephony management",
+        "category": "Provision and management of IT tools and means of communication",
+        "category_id": 20
+    },
+    {
+        "value": "Providing Virtual Private Networks for Dissemination or Collection of Administrative Management Data",
+        "label": "Providing Virtual Private Networks for Dissemination or Collection of Administrative Management Data",
+        "category": "Provision and management of IT tools and means of communication",
+        "category_id": 20
+    },
+    {
+        "value": "Measure of use / performance and improvement of digital tools made available to employees",
+        "label": "Measure of use / performance and improvement of digital tools made available to employees",
+        "category": "Provision and management of IT tools and means of communication",
+        "category_id": 20
+    },
+    {
+        "value": "Security and proper functioning of computer applications and networks (safety logs from IS, incident prevention)",
+        "label": "Security and proper functioning of computer applications and networks (safety logs from IS, incident prevention)",
+        "category": "Securing information systems and IT tools",
+        "category_id": 21
+    },
+    {
+        "value": "Functioning and securing websites",
+        "label": "Functioning and securing websites",
+        "category": "Securing information systems and IT tools",
+        "category_id": 21
+    },
+    {
+        "value": "Vulnerability Management and Security Incidents",
+        "label": "Vulnerability Management and Security Incidents (Collection of Incident Data, Operations, Corrective Action Management, Resolution Statistics, Managing a Security Contacts and SSI Procedures)",
+        "category": "Securing information systems and IT tools",
+        "category_id": 21
+    },
+    {
+        "value": "Supervision of the access authorization policy for users and administrators to VinFast Europe information systems",
+        "label": "Supervision of the access authorization policy for users and administrators to VinFast Europe information systems",
+        "category": "Securing information systems and IT tools",
+        "category_id": 21
+    },
+    {
+        "value": "Management of requests to the Security Teams and Tracking IT Projects",
+        "label": "Management of requests to the Security Teams and Tracking IT Projects",
+        "category": "Securing information systems and IT tools",
+        "category_id": 21
+    },
+    {
+        "value": "Follow-up of recommendations and action plans for internal controls and audits",
+        "label": "Follow-up of recommendations and action plans for internal controls and audits",
+        "category": "internal control & audit management",
+        "category_id": 22
+    },
+    {
+        "value": "Internal Audit and Analysis",
+        "label": "Internal Audit and Analysis",
+        "category": "internal control & audit management",
+        "category_id": 22
+    },
+    {
+        "value": "Realization and analysis of internal controls",
+        "label": "Realization and analysis of internal controls",
+        "category": "internal control & audit management",
+        "category_id": 22
+    },
+    {
+        "value": "Implementation of internal control and audit measurement",
+        "label": "Implementation of internal control and audit measurement",
+        "category": "internal control & audit management",
+        "category_id": 22
+    },
+    {
+        "value": "Management of banking powers",
+        "label": "Management of banking powers",
+        "category": "Internal delegations Management",
+        "category_id": 23
+    },
+    {
+        "value": "Management of the Criminal Liability Delegation",
+        "label": "Management of the Criminal Liability Delegation",
+        "category": "Internal delegations Management",
+        "category_id": 23
+    },
+    {
+        "value": "Management of the Delegation of Authority (DAA)",
+        "label": "Management of the Delegation of Authority (DAA)",
+        "category": "Internal delegations Management",
+        "category_id": 23
+    },
+    {
+        "value": "Management of the delegation of signature",
+        "label": "Management of the delegation of signature",
+        "category": "Internal delegations Management",
+        "category_id": 23
+    },
+    {
+        "value": "Internal management of an expenditure project",
+        "label": "Internal management of an expenditure project",
+        "category": "Internal delegations Management",
+        "category_id": 23
+    },
+    {
+        "value": "Electronic signature management",
+        "label": "Electronic signature management",
+        "category": "Internal delegations Management",
+        "category_id": 23
+    },
+    {
+        "value": "Management of the General Assembly",
+        "label": "Management of the General Assembly",
+        "category": "Legal constraints",
+        "category_id": 24
+    },
+    {
+        "value": "Query management, control and inspections made by the authorities",
+        "label": "Query management, control and inspections made by the authorities",
+        "category": "Legal constraints",
+        "category_id": 24
+    },
+    {
+        "value": "Management of unpaid bills",
+        "label": "Management of unpaid bills",
+        "category": "Litigation management",
+        "category_id": 25
+    },
+    {
+        "value": "Management of offenses and convictions",
+        "label": "Management of offenses and convictions",
+        "category": "Litigation management",
+        "category_id": 25
+    },
+    {
+        "value": "Litigation management employees",
+        "label": "Litigation management employees",
+        "category": "Litigation management",
+        "category_id": 25
+    },
+    {
+        "value": "Preconstitutional and Litigation Management",
+        "label": "Preconstitutional and Litigation Management",
+        "category": "Litigation management",
+        "category_id": 25
+    },
+    {
+        "value": "Management of road contravention recovery",
+        "label": "Management of road contravention recovery",
+        "category": "Litigation management",
+        "category_id": 25
+    },
+    {
+        "value": "Receipt and registration of requests and reports of professional alerts",
+        "label": "Receipt and registration of requests and reports of professional alerts",
+        "category": "Management of professional alerts",
+        "category_id": 26
+    },
+    {
+        "value": "Review and monitoring of requests and reports (professional alerts)",
+        "label": "Review and monitoring of requests and reports (professional alerts)",
+        "category": "Professional alerts Management",
+        "category_id": 27
+    },
+    {
+        "value": "Development of business alert activity data (statistics)",
+        "label": "Development of business alert activity data (statistics)",
+        "category": "Professional alerts Management",
+        "category_id": 27
+    },
+    {
+        "value": "Management of due diligences",
+        "label": "Management of due diligences",
+        "category": "Risk management",
+        "category_id": 28
+    },
+    {
+        "value": "Detection of fraud and corruption",
+        "label": "Detection of fraud and corruption",
+        "category": "Risk management",
+        "category_id": 28
+    },
+    {
+        "value": "Insider Management",
+        "label": "Insider Management",
+        "category": "Risk management",
+        "category_id": 28
+    },
+    {
+        "value": "Insurance management",
+        "label": "Insurance management",
+        "category": "Risk management",
+        "category_id": 28
+    },
+    {
+        "value": "Management of corporal claims & materials",
+        "label": "Management of corporal claims & materials",
+        "category": "Risk management",
+        "category_id": 28
+    },
+    {
+        "value": "Event Management Organized by Vinfast Europe for its audiences and personal (excluding internal events)",
+        "label": "Event Management Organized by Vinfast Europe for its audiences and personal (excluding internal events)",
+        "category": "External Communication management",
+        "category_id": 29
+    },
+    {
+        "value": "Management and sending external newsletters (excluding commercial)",
+        "label": "Management and sending external newsletters (excluding commercial)",
+        "category": "External Communication management",
+        "category_id": 29
+    },
+    {
+        "value": "Press and Media Management (Application Management, Dissemination List and Sending Press Releases or Invitations)",
+        "label": "Press and Media Management (Application Management, Dissemination List and Sending Press Releases or Invitations)",
+        "category": "External Communication management",
+        "category_id": 29
+    },
+    {
+        "value": "Management of Group Trademark Ambassadors (List of Contacts and Endowments Tracking)",
+        "label": "Management of Group Trademark Ambassadors (List of Contacts and Endowments Tracking)",
+        "category": "External Communication management",
+        "category_id": 29
+    },
+    {
+        "value": "Shareholder Club Management",
+        "label": "Shareholder Club Management",
+        "category": "Management of shareholders and investors",
+        "category_id": 30
+    },
+    {
+        "value": "Management of the relationship with investors",
+        "label": "Management of the relationship with investors",
+        "category": "Management of shareholders and investors",
+        "category_id": 30
+    },
+    {
+        "value": "Management of the relationship with shareholders",
+        "label": "Management of the relationship with shareholders",
+        "category": "Management of shareholders and investors",
+        "category_id": 30
+    },
+    {
+        "value": "Account Management and Interactions (Public or Private Messaging) with Subscribers and Other Users of Vinfast Europe Social Networks",
+        "label": "Account Management and Interactions (Public or Private Messaging) with Subscribers and Other Users of Vinfast Europe Social Networks",
+        "category": "Management of Social Networks of Vinfast Europe",
+        "category_id": 31
+    },
+    {
+        "value": "Management of the performance and the audience of digital channels",
+        "label": "Management of the performance and the audience of digital channels",
+        "category": "Management of Social Networks of Vinfast Europe",
+        "category_id": 31
+    },
+    {
+        "value": "Management of the media library marketing and communication",
+        "label": "Management of the media library marketing and communication",
+        "category": "photos and videos management",
+        "category_id": 32
+    },
+    {
+        "value": "Management of cultural activities",
+        "label": "Management of cultural activities",
+        "category": "Picture And Community Activities",
+        "category_id": 33
+    },
+    {
+        "value": "Management of sponsorships and community activities",
+        "label": "Management of sponsorships and community activities",
+        "category": "Picture And Community Activities",
+        "category_id": 33
+    },
+    {
+        "value": "Mapping and follow-up of public opinion",
+        "label": "Mapping and follow-up of public opinion",
+        "category": "Public Affairs Management",
+        "category_id": 34
+    },
+    {
+        "value": "Management of interest representation actions",
+        "label": "Management of interest representation actions",
+        "category": "Public Affairs Management",
+        "category_id": 34
+    },
+    {
+        "value": "Management of public biographies",
+        "label": "Management of public biographies",
+        "category": "Public Affairs Management",
+        "category_id": 34
+    },
+    {
+        "value": "Relations with professional associations",
+        "label": "Relations with professional associations",
+        "category": "Public Affairs Management",
+        "category_id": 34
+    },
+    {
+        "value": "Relations with public authorities",
+        "label": "Relations with public authorities",
+        "category": "Public Affairs Management",
+        "category_id": 34
+    },
+    {
+        "value": "Relationship with public persons",
+        "label": "Relationship with public persons",
+        "category": "Public Affairs Management",
+        "category_id": 34
+    },
+    {
+        "value": "Management of solidarity activities",
+        "label": "Management of solidarity activities",
+        "category": "Social Responsibility of the Company (CSR) (excluding environment)",
+        "category_id": 35
+    },
+    {
+        "value": "Management and animation of projects around inclusion and diversity",
+        "label": "Management and animation of projects around inclusion and diversity",
+        "category": "Social Responsibility of the Company (CSR) (excluding environment)",
+        "category_id": 35
+    },
+    {
+        "value": "Investment management in start-ups and associations",
+        "label": "Investment management in start-ups and associations",
+        "category": "Social Responsibility of the Company (CSR) (excluding environment)",
+        "category_id": 35
+    },
+    {
+        "value": "Management of requests made via the contact forms on the sites of Vinfast Europe",
+        "label": "Management of requests made via the contact forms on the sites of Vinfast Europe",
+        "category": "Web site management administered by VinFast Europe and associated requests",
+        "category_id": 36
+    },
+    {
+        "value": "Production of Activity, Hearing and Use of Online Service Statistics offered by Vinfast Europe",
+        "label": "Production of Activity, Hearing and Use of Online Service Statistics offered by Vinfast Europe",
+        "category": "Web site management administered by VinFast Europe and associated requests",
+        "category_id": 36
+    },
+    {
+        "value": "Management of remarks and reports addressed to the editorial and webmaster of Vinfast Europe sites",
+        "label": "Management of remarks and reports addressed to the editorial and webmaster of Vinfast Europe sites",
+        "category": "Web site management administered by VinFast Europe and associated requests",
+        "category_id": 36
+    },
+    {
+        "value": "Tracking the relationship with the commercial network",
+        "label": "Tracking the relationship with the commercial network",
+        "category": "Management of the relationship with Vinfast Showroom",
+        "category_id": 37
+    },
+    {
+        "value": "Training of the Commercial & Assimilated Network",
+        "label": "Training of the Commercial & Assimilated Network (incl. Follow-up of the Performance and Quality Review)",
+        "category": "Management of the relationship with Vinfast Showroom",
+        "category_id": 37
+    },
+    {
+        "value": "Accreditation management with the commercial network",
+        "label": "Accreditation management with the commercial network",
+        "category": "Management of the relationship with Vinfast Showroom",
+        "category_id": 37
+    },
+    {
+        "value": "Audit management concerning the quality of the commercial network",
+        "label": "Audit management concerning the quality of the commercial network",
+        "category": "Management of the relationship with Vinfast Showroom",
+        "category_id": 37
+    },
+    {
+        "value": "Commercial network animation",
+        "label": "Commercial network animation",
+        "category": "Management of the relationship with Vinfast Showroom",
+        "category_id": 37
+    },
+    {
+        "value": "Provision and performance monitoring of digital tools used by the network",
+        "label": "Provision and performance monitoring of digital tools used by the network",
+        "category": "Management of the relationship with Vinfast Showroom",
+        "category_id": 37
+    },
+    {
+        "value": "Followed by the fleet vehicles in the network",
+        "label": "Followed by the fleet vehicles in the network",
+        "category": "Management of the relationship with Vinfast Showroom",
+        "category_id": 38
+    },
+    {
+        "value": "Monitoring the improvement of product quality and performance and benefits provided by suppliers",
+        "label": "Monitoring the improvement of product quality and performance and benefits provided by suppliers",
+        "category": "Supplier and service provider relationship management",
+        "category_id": 39
+    },
+    {
+        "value": "Follow-up of the prerequisites mentioned in the certifications of suppliers",
+        "label": "Follow-up of the prerequisites mentioned in the certifications of suppliers",
+        "category": "Supplier and service provider relationship management",
+        "category_id": 39
+    },
+    {
+        "value": "Selection of suppliers for the needs of the company",
+        "label": "Selection of suppliers for the needs of the company",
+        "category": "Supplier and service provider relationship management",
+        "category_id": 39
+    },
+    {
+        "value": "Management of the contractual relationship with suppliers",
+        "label": "Management of the contractual relationship with suppliers",
+        "category": "Supplier and service provider relationship management",
+        "category_id": 39
+    },
+    {
+        "value": "Management of data violations",
+        "label": "Management of data violations",
+        "category": "Crisis management",
+        "category_id": 40
+    },
+    {
+        "value": "Management of crisis and emergency situations",
+        "label": "Management of crisis and emergency situations",
+        "category": "Crisis management",
+        "category_id": 40
+    },
+    {
+        "value": "Management of crisis and penalty directories",
+        "label": "Management of crisis and penalty directories",
+        "category": "Crisis management",
+        "category_id": 40
+    },
+    {
+        "value": "Flights of vehicle parts flights",
+        "label": "Flights of vehicle parts flights",
+        "category": "Police request",
+        "category_id": 41
+    },
+    {
+        "value": "Traceability management of stolen vehicles (geolocation)",
+        "label": "Traceability management of stolen vehicles (geolocation)",
+        "category": "Police request",
+        "category_id": 41
+    },
+    {
+        "value": "Control of on-site access",
+        "label": "Control of on-site access",
+        "category": "Protection of goods and people",
+        "category_id": 42
+    },
+    {
+        "value": "Visitor management",
+        "label": "Visitor management",
+        "category": "Protection of goods and people",
+        "category_id": 42
+    },
+    {
+        "value": "Safety of goods and people (CCTV)",
+        "label": "Safety of goods and people (CCTV)",
+        "category": "Protection of goods and people",
+        "category_id": 42
+    },
+    {
+        "value": "Traveler Management (incl. Repatriation)",
+        "label": "Traveler Management (incl. Repatriation)",
+        "category": "Protection of goods and people",
+        "category_id": 42
+    },
+    {
+        "value": "Alert management (events that could impact the safety or health of employees)",
+        "label": "Alert management (events that could impact the safety or health of employees)",
+        "category": "Protection of goods and people",
+        "category_id": 42
+    },
+    {
+        "value": "Quotation management and meeting appointments in workshops (offline and online)",
+        "label": "Quotation management and meeting appointments in workshops (offline and online)",
+        "category": "After-sales management (interventions on the vehicle))",
+        "category_id": 43
+    },
+    {
+        "value": "Roadside Assistance and Troubleshooting",
+        "label": "Roadside Assistance and Troubleshooting",
+        "category": "After-sales management (interventions on the vehicle))",
+        "category_id": 43
+    },
+    {
+        "value": "Vehicle repair and maintenance",
+        "label": "Vehicle repair and maintenance",
+        "category": "After-sales management (interventions on the vehicle))",
+        "category_id": 43
+    },
+    {
+        "value": "Management of the relationship with the followings owners during the entire cycle life of the vehicle",
+        "label": "Management of the relationship with the followings owners during the entire cycle life of the vehicle",
+        "category": "Car Ownership & Transfert of ownership management",
+        "category_id": 44
+    },
+    {
+        "value": "Car User Management with main user",
+        "label": "Car User Management with main user",
+        "category": "Car Ownership & Transfert of ownership management",
+        "category_id": 44
+    },
+    {
+        "value": "Management of vehicle documents",
+        "label": "Management of vehicle documents",
+        "category": "Car Relation Management",
+        "category_id": 45
+    },
+    {
+        "value": "Managing the vehicle registration application",
+        "label": "Managing the vehicle registration application",
+        "category": "Car Relation Management",
+        "category_id": 45
+    },
+    {
+        "value": "Managing Vehicle Approvals",
+        "label": "Managing Vehicle Approvals",
+        "category": "Car Relation Management",
+        "category_id": 45
+    },
+    {
+        "value": "Vehicle history and relations (health book)",
+        "label": "Vehicle history and relations (health book)",
+        "category": "Car Relation Management",
+        "category_id": 45
+    },
+    {
+        "value": "Vehicle repository management",
+        "label": "Vehicle repository management",
+        "category": "Car Relation Management",
+        "category_id": 45
+    },
+    {
+        "value": "Battery Management and Connected Associated Services",
+        "label": "Battery Management and Connected Associated Services",
+        "category": "Connected services",
+        "category_id": 46
+    },
+    {
+        "value": "Commercial Applications (Targeted Advertising, Braking Assistance, Individual Insurance)",
+        "label": "Commercial Applications (Targeted Advertising, Braking Assistance, Individual Insurance)",
+        "category": "Connected services",
+        "category_id": 46
+    },
+    {
+        "value": "Enabling and subscription of Connected Services (Account Management, Contract)",
+        "label": "Enabling and subscription of Connected Services (Account Management, Contract)",
+        "category": "Connected services",
+        "category_id": 46
+    },
+    {
+        "value": "Follow-up cybersecurity events in the vehicle",
+        "label": "Follow-up cybersecurity events in the vehicle",
+        "category": "Connected services",
+        "category_id": 46
+    },
+    {
+        "value": "Driver Support (anticipation message, eco-driving, parking assistance)",
+        "label": "Driver Support (anticipation message, eco-driving, parking assistance)",
+        "category": "Connected services",
+        "category_id": 46
+    },
+    {
+        "value": "Infotainment (video games, music listening, movie viewing)",
+        "label": "Infotainment (video games, music listening, movie viewing)",
+        "category": "Connected services",
+        "category_id": 46
+    },
+    {
+        "value": "Navigation (nearby point of interest, traffic information, parking space reservation, door-to-door navigation)",
+        "label": "Navigation (nearby point of interest, traffic information, parking space reservation, door-to-door navigation)",
+        "category": "Connected services",
+        "category_id": 46
+    },
+    {
+        "value": "Authentication on board (FACE ID / PIN CODE)",
+        "label": "Authentication on board (FACE ID / PIN CODE)",
+        "category": "Connected services",
+        "category_id": 46
+    },
+    {
+        "value": "Provision of data of vehicles connected for commercial services subscribed by the persons concerned directly from third parties",
+        "label": "Provision of data of vehicles connected for commercial services subscribed by the persons concerned directly from third parties (E.g. Pay How You Drive)",
+        "category": "Connected services",
+        "category_id": 46
+    },
+    {
+        "value": "Remote control (control and vehicle dashboard, home automation services)",
+        "label": "Remote control (control and vehicle dashboard, home automation services)",
+        "category": "Connected services",
+        "category_id": 46
+    },
+    {
+        "value": "Road safety (emergency call, warning risk of collision, white line crossing detection, ..)",
+        "label": "Road safety (emergency call, warning risk of collision, white line crossing detection, ..)",
+        "category": "Connected services",
+        "category_id": 46
+    },
+    {
+        "value": "Technical incident management of a connected car",
+        "label": "Technical incident management of a connected car",
+        "category": "Connected services",
+        "category_id": 46
+    },
+    {
+        "value": "Security prevention (burglary notification, virtual sentinel model)",
+        "label": "Security prevention (burglary notification, virtual sentinel model)",
+        "category": "Connected services",
+        "category_id": 46
+    },
+    {
+        "value": "Vehicle remote Diagnosis and Maintenance",
+        "label": "Vehicle remote Diagnosis and Maintenance",
+        "category": "Connected services",
+        "category_id": 46
+    },
+    {
+        "value": "Update software (OS) & Multimedia component (FOTA)",
+        "label": "Update software (OS) & Multimedia component (FOTA)",
+        "category": "Connected services",
+        "category_id": 46
+    },
+    {
+        "value": "Cybersecurity & Safety updates (FOTA)",
+        "label": "Cybersecurity & Safety updates (FOTA)",
+        "category": "Connected services",
+        "category_id": 46
+    },
+    {
+        "value": "Sharing data from vehicles connected to commercial partners from VinFast Europe for commercial prospecting purposes",
+        "label": "Sharing data from vehicles connected to commercial partners from VinFast Europe for commercial prospecting purposes",
+        "category": "Connected services",
+        "category_id": 46
+    },
+    {
+        "value": "Sale of online accessories",
+        "label": "Sale of online accessories",
+        "category": "Contractual and financial management of product and service sales",
+        "category_id": 47
+    },
+    {
+        "value": "Connected Services Contract Management",
+        "label": "Connected Services Contract Management",
+        "category": "Contractual and financial management of product and service sales",
+        "category_id": 47
+    },
+    {
+        "value": "Vehicle warranty extension (VN and VO)",
+        "label": "Vehicle warranty extension (VN and VO)",
+        "category": "Contractual and financial management of product and service sales",
+        "category_id": 47
+    },
+    {
+        "value": "Financing Management (via FCA for example)",
+        "label": "Financing Management (via FCA for example)",
+        "category": "Contractual and financial management of product and service sales",
+        "category_id": 47
+    },
+    {
+        "value": "MANAGEMENT OF MAINTENANCE CONTRACTS Vehicles",
+        "label": "MANAGEMENT OF MAINTENANCE CONTRACTS Vehicles",
+        "category": "Contractual and financial management of product and service sales",
+        "category_id": 47
+    },
+    {
+        "value": "Manufacturer's warranty",
+        "label": "Manufacturer's warranty",
+        "category": "Contractual and financial management of product and service sales",
+        "category_id": 47
+    },
+    {
+        "value": "Connected car Data Monetization (including data brokering)",
+        "label": "Connected car Data Monetization (including data brokering)",
+        "category": "Data valorization",
+        "category_id": 48
+    },
+    {
+        "value": "Management and follow-up of the production of vehicles and parts",
+        "label": "Management and follow-up of the production of vehicles and parts",
+        "category": "Manufacturing Management",
+        "category_id": 49
+    },
+    {
+        "value": "Transport and storage of vehicles",
+        "label": "Transport and storage of vehicles",
+        "category": "Manufacturing Management",
+        "category_id": 49
+    },
+    {
+        "value": "Remote Maintenance of Machines and Tools Factory",
+        "label": "Remote Maintenance of Machines and Tools Factory",
+        "category": "Manufacturing Management",
+        "category_id": 49
+    },
+    {
+        "value": "Traceability in factories (telematics, packaging, parts & processes)",
+        "label": "Traceability in factories (telematics, packaging, parts & processes)",
+        "category": "Manufacturing Management",
+        "category_id": 49
+    },
+    {
+        "value": "SUPPLY AND TRANSPORT OF PARTS AND PACKAGING",
+        "label": "SUPPLY AND TRANSPORT OF PARTS AND PACKAGING",
+        "category": "Manufacturing Management",
+        "category_id": 49
+    },
+    {
+        "value": "Cost Pilotage - Vehicle Design Time",
+        "label": "Cost Pilotage - Vehicle Design Time",
+        "category": "Manufacturing Management",
+        "category_id": 49
+    },
+    {
+        "value": "Fleet Management (B2B)",
+        "label": "Fleet Management (B2B)",
+        "category": "Mobility Management",
+        "category_id": 50
+    },
+    {
+        "value": "Vehicle rental (short duration)",
+        "label": "Vehicle rental (short duration)",
+        "category": "Mobility Management",
+        "category_id": 50
+    },
+    {
+        "value": "Vehicle sales intermediation (C2C)",
+        "label": "Vehicle sales intermediation (C2C)",
+        "category": "Mobility Management",
+        "category_id": 50
+    },
+    {
+        "value": "Vehicle sharing",
+        "label": "Vehicle sharing",
+        "category": "Mobility Management",
+        "category_id": 50
+    },
+    {
+        "value": "Incidental and sustainability studies",
+        "label": "Incidental and sustainability studies",
+        "category": "Monitoring and improvement of vehicles and associated services",
+        "category_id": 51
+    },
+    {
+        "value": "Improved car satisfaction users",
+        "label": "Improved car satisfaction users",
+        "category": "Monitoring and improvement of vehicles and associated services",
+        "category_id": 51
+    },
+    {
+        "value": "Improved sales and services sales (management and reporting)",
+        "label": "Improved sales and services sales (management and reporting)",
+        "category": "Monitoring and improvement of vehicles and associated services",
+        "category_id": 51
+    },
+    {
+        "value": "Management and analysis of vehicle rolling (pre-OLV / OLV)",
+        "label": "Management and analysis of vehicle rolling (pre-OLV / OLV)",
+        "category": "Monitoring and improvement of vehicles and associated services",
+        "category_id": 51
+    },
+    {
+        "value": "Vehicle management impacted by a quality blockage",
+        "label": "Vehicle management impacted by a quality blockage",
+        "category": "Monitoring and improvement of vehicles and associated services",
+        "category_id": 51
+    },
+    {
+        "value": "Model optimization, product improvement and services",
+        "label": "Model optimization, product improvement and services",
+        "category": "Monitoring and improvement of vehicles and associated services",
+        "category_id": 51
+    },
+    {
+        "value": "Product quality analysis and monitoring and manufacturing processing / logistics",
+        "label": "Product quality analysis and monitoring and manufacturing processing / logistics",
+        "category": "Monitoring and improvement of vehicles and associated services",
+        "category_id": 51
+    },
+    {
+        "value": "Management of recall campaigns (OTS)",
+        "label": "Management of recall campaigns (OTS)",
+        "category": "Monitoring and improvement of vehicles and associated services",
+        "category_id": 51
+    },
+    {
+        "value": "Car User Management with secondary users",
+        "label": "Car User Management with secondary users",
+        "category": "User relationship management",
+        "category_id": 52
+    },
+    {
+        "value": "Exploration, transformation",
+        "label": "Exploration, transformation",
+        "category": "Data Valorizatio",
+        "category_id": 53
+    },
+    {
+        "value": "Proofs of concept Management",
+        "label": "Proofs of concept Management",
+        "category": "Data Valorizatio",
+        "category_id": 53
+    },
+    {
+        "value": "Directory of volunteers for participation in studies",
+        "label": "Directory of volunteers for participation in studies",
+        "category": "Research & Advanced engeneering",
+        "category_id": 54
+    },
+    {
+        "value": "Reasearch on new ADAS or autonomous drive",
+        "label": "Reasearch on new ADAS or autonomous drive",
+        "category": "Research & Advanced engeneering",
+        "category_id": 54
+    },
+    {
+        "value": "Research on the life on board",
+        "label": "Research on the life on board",
+        "category": "Research & Advanced engeneering",
+        "category_id": 54
+    },
+    {
+        "value": "Research on research on the behavior of people interacting with the vehicle",
+        "label": "Research on research on the behavior of people interacting with the vehicle",
+        "category": "Research & Advanced engeneering",
+        "category_id": 54
+    },
+    {
+        "value": "Research & development on new functionnalities for connected vehicle",
+        "label": "Research & development on new functionnalities for connected vehicle",
+        "category": "Research & Advanced engeneering",
+        "category_id": 54
+    },
+    {
+        "value": "Research on electric system & battery",
+        "label": "Research on electric system & battery",
+        "category": "Research & Advanced engeneering",
+        "category_id": 54
+    }
+]
